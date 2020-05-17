@@ -179,7 +179,6 @@
 <li>1997 &ndash; First&nbsp;<a title="Shinkansen" href="https://en.wikipedia.org/wiki/Shinkansen#Maglev_(Chuo_Shinkansen)">Maglev</a>&nbsp;train prototypes are tested in Japan.</li>
 </ul>
 <h2><span id="21st_century" class="mw-headline">21st century</span></h2>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li>2002 &ndash;&nbsp;<a class="mw-redirect" title="Segway PT" href="https://en.wikipedia.org/wiki/Segway_PT">Segway PT</a>&nbsp;self-balancing personal transport was launched by inventor&nbsp;<a title="Dean Kamen" href="https://en.wikipedia.org/wiki/Dean_Kamen">Dean Kamen</a>.</li>
 <li>2003 - Concorde makes last passenger flight.</li>
